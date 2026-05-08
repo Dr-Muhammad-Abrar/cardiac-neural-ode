@@ -183,10 +183,9 @@ I have not Uploaded the dataset to data folder. the links are provided in the fi
 
 ## Authors
 
-| Author | Affiliation |
 
-| Muhammad Faisal Abrar | University of Ha'il, Saudi Arabia |
 
+Dr. Muhammad Faisal Abrar  University of Ha'il, Saudi Arabia 
 
 \* Corresponding authors: m.abrar@uoh.edu.sa
 
